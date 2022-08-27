@@ -63,7 +63,7 @@ I have been reading a lot of articles from MDN and W3 school on this topics.
 
 ## Author
 
-- Website - [Jyotimoy kathar](https://www.your-site.com)
+- Website github- [Jyotimoykathar](https://github.com/Jyotimoykathar/qr-code)
 - Frontend Mentor - [@Jyotimoykathar](https://www.frontendmentor.io/profile/Jyotimoykathar)
 
 ## Acknowledgments
