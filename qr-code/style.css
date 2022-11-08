@@ -12,6 +12,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 .main-content {
+  padding-top: 2rem;
   max-width: 1440px;
   height: 96vh;
   margin: 0 auto;
